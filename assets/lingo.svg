@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 295" role="img" aria-label="Lingo, un carnet vert qui prend vie">
+<defs>
+  <linearGradient id="paper" x1="0" x2=".6" y1="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#fffdf5"/><stop offset="1" stop-color="#e6e9d9"/></linearGradient>
+  <linearGradient id="cover" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#95f6c8"/><stop offset="1" stop-color="#2cc093"/></linearGradient>
+  <linearGradient id="back" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#319d7a"/><stop offset="1" stop-color="#0c6d53"/></linearGradient>
+</defs>
+<path d="M53 230c-20-47-7-105 35-139 32-25 71-32 110-22 31-36 84-42 125-17 48 29 66 87 46 128-14 31-54 50-100 61-75 15-182 24-216-11Z" fill="#d2efdb"/>
+<path d="M32 158c59-22 88-51 99-98m184 182c-8-13-12-27-7-42 6-18 35-26 57-22" fill="none" stroke="#64ae99" stroke-opacity=".6" stroke-width="1" stroke-dasharray="4 5"/>
+<ellipse cx="218" cy="257" rx="110" ry="11" fill="#4eab91" opacity=".25"/>
+<g transform="rotate(-9 209 157)">
+  <path d="M153 209c-12 8-24 16-27 28m120-25c8 10 12 17 13 26" fill="none" stroke="#173d36" stroke-width="8" stroke-linecap="round"/>
+  <path d="M125 237c-12-2-19 4-17 9 1 6 16 8 27 4 6-1 6-10 2-13m120 1c13-5 24-1 25 4 2 7-17 11-29 7-5-2-4-9 4-11" fill="#143c35"/>
+  <path d="M123 139c-22 5-36 18-39 33m194-28c17-6 28-14 33-31" fill="none" stroke="#173d36" stroke-width="7" stroke-linecap="round"/>
+  <path d="M66 170c4-11 13-11 18-4 6-5 13-1 12 6-2 10-17 16-25 11-4-3-7-7-5-13Zm244-63c-4-10 4-18 11-13 10-3 16 3 11 11-2 7-9 19-18 16-6-2-7-7-4-14Z" fill="#75e9b7" stroke="#173d36" stroke-width="3"/>
+  <path d="M136 78h134c11 0 23 8 23 20v114c0 13-11 23-23 23H139c-15 0-27-12-27-27V103c0-15 10-25 24-25Z" fill="url(#back)" stroke="#173d36" stroke-width="3"/>
+  <path d="M137 78h129c11 0 18 7 18 17v109c0 10-8 18-18 18H140c-12 0-22-10-22-22V98c0-11 8-20 19-20Z" fill="url(#paper)" stroke="#173d36" stroke-width="3"/>
+  <path d="M135 66h128c10 0 18 7 18 17v104c0 12-8 20-18 20H138c-13 0-23-10-23-23V87c0-12 8-21 20-21Z" fill="url(#cover)" stroke="#173d36" stroke-width="3"/>
+  <path d="M140 67h-5c-12 0-20 9-20 20v97c0 13 10 23 23 23h3V67Z" fill="#239575"/>
+  <path d="M139 70v134m-4 12h124m-125 6h105" fill="none" stroke="#173d36" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+  <path d="M245 187h15m-11-8h11" fill="none" stroke="#146953" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M234 66v-13l11 5 12-5v13" fill="#f8c96c" stroke="#173d36" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="177" cy="127" rx="6" ry="11" fill="#153f37"/>
+  <ellipse cx="231" cy="127" rx="6" ry="11" fill="#153f37"/>
+  <ellipse cx="166" cy="145" rx="8" ry="4" fill="#dd947d" opacity=".9"/>
+  <ellipse cx="243" cy="145" rx="8" ry="4" fill="#dd947d" opacity=".9"/>
+  <path d="M193 142q10 16 21 0" fill="none" stroke="#153f37" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M149 90h17m-8-8v16" fill="none" stroke="#eefcf3" stroke-width="2" stroke-linecap="round"/>
+</g>
+<path d="m323 55 5-13 6 13 13 5-13 6-6 13-5-13-13-6Z" fill="#f3bd59"/>
+<path d="m74 81 3-9 4 9 9 4-9 4-4 9-3-9-10-4Zm275 53 4-10 4 10 10 4-10 4-4 10-4-10-10-4Z" fill="#2c9b76"/>
+<path d="M54 113h12m-6-6v12m237 104h14m-7-7v14" stroke="#50ae88" stroke-width="2" stroke-linecap="round"/>
+</svg>
